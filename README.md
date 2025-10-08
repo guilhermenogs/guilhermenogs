@@ -31,7 +31,7 @@
 ---
 
 ## 📌 Projetos Principais
-🔹 [**404**]() - 
+🔹 [**gerador-de-senhas**](https://github.com/guilhermenogs/gerador-de-senhas) - 
 
 ---
 
