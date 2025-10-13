@@ -33,7 +33,7 @@
 ## 📌 Projetos Principais
 🔹 [**gerador-de-senhas**](https://github.com/guilhermenogs/gerador-de-senhas) 
 🔹 [**backup-automatico**](https://github.com/guilhermenogs/backup-automatico) 
-
+🔹 [**backup-automatico**](https://github.com/guilhermenogs/ia-detector-logs) 
 ---
 
 ## 📊 Estatísticas do GitHub
