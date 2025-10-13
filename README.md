@@ -31,7 +31,8 @@
 ---
 
 ## 📌 Projetos Principais
-🔹 [**gerador-de-senhas**](https://github.com/guilhermenogs/gerador-de-senhas) - 
+🔹 [**gerador-de-senhas**](https://github.com/guilhermenogs/gerador-de-senhas) 
+🔹 [**backup-automatico**](https://github.com/guilhermenogs/backup-automatico) 
 
 ---
 
